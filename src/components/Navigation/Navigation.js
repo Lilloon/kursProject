@@ -18,7 +18,7 @@ const Navigation = ({ options }) => {
             onClick(item.path);
           }}
         >
-          <Link key={item.id} to={`kursProject/${item.path}`}>
+          <Link key={item.id} to={`kursProject${item.path}`}>
             <span className={item.path === selected ? classes.selected : ""}>
               {item.name}
             </span>
