@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kursProject/static/css/main.16dc7975.css",
-    "main.js": "/kursProject/static/js/main.089e373c.js",
+    "main.js": "/kursProject/static/js/main.32370fbf.js",
     "static/media/mom.jpg": "/kursProject/static/media/mom.9049f1e7255c3cd6c994.jpg",
     "static/media/alena.jpg": "/kursProject/static/media/alena.918339e261cc9298f669.jpg",
     "static/media/dasha.jpg": "/kursProject/static/media/dasha.9d496b96efb227c9b6bd.jpg",
@@ -15,10 +15,10 @@
     "static/media/snowball.jpg": "/kursProject/static/media/snowball.49410f9374bc98608b35.jpg",
     "index.html": "/kursProject/index.html",
     "main.16dc7975.css.map": "/kursProject/static/css/main.16dc7975.css.map",
-    "main.089e373c.js.map": "/kursProject/static/js/main.089e373c.js.map"
+    "main.32370fbf.js.map": "/kursProject/static/js/main.32370fbf.js.map"
   },
   "entrypoints": [
     "static/css/main.16dc7975.css",
-    "static/js/main.089e373c.js"
+    "static/js/main.32370fbf.js"
   ]
 }
