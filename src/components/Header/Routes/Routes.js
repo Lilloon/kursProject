@@ -4,8 +4,8 @@ import Content from "../../Content/Content";
 
 const MyRoutes = () => (
   <Routes>
-    <Route path="/" element={<Content />}>
-      <Route path="/:contentPath" element={<Content />} />
+    <Route path="/kursProject" element={<Content />}>
+      <Route path="kursProject/:contentPath" element={<Content />} />
     </Route>
   </Routes>
 );

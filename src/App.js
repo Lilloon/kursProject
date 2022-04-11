@@ -8,8 +8,8 @@ function App() {
   const navigate = useNavigate();
   const location = useLocation();
   useEffect(() => {
-    if (location.pathname === "/") {
-      navigate("aboutMe");
+    if (location.pathname === "/kursProject") {
+      navigate("kursProject/aboutMe");
     }
     console.log(location);
   }, []);
