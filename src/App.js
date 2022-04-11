@@ -8,11 +8,12 @@ function App() {
   const navigate = useNavigate();
   const location = useLocation();
   useEffect(() => {
-    if (location.pathname === "/kursProject/") {
+    if (location.pathname === "/kursProject/" || location.pathname === "/") {
       navigate("kursProject/aboutMe");
     }
-    console.log(location);
   }, []);
+  console.log(location);
+
   return (
     <div className="App">
       <Header />

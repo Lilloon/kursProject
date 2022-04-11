@@ -8,7 +8,6 @@ const Navigation = ({ options }) => {
 
   const onClick = (path) => {
     setSelected(path);
-    console.log(selected);
   };
   return (
     <div className={classes.navBar}>
