@@ -2,7 +2,7 @@
   "name": "about_me_app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lilloon.github.io/aboutMe",
+  "homepage": "https://lilloon.github.io/kursProject",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
